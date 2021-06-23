@@ -4,7 +4,7 @@ const config = {
     'pk_test_51J5WVhGsXKyvGxq8AAaCVWnHjsQqaBZSuXfaLBzJjqcbu6vcUe1IKCbF4ZwHN0fpg3Xrm5N8UJbfnoZJKNiaAjgX007J06IJJa',
   s3: {
     REGION: 'us-east-1',
-    BUCKET: 'notes-app-uploads-bob',
+    BUCKET: 'notes-app-upload-bob',
   },
   apiGateway: {
     REGION: 'us-east-1',
